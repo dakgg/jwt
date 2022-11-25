@@ -1,0 +1,4 @@
+jwt.client/bin
+jwt.client/obj
+
+jwt.shared/obj
