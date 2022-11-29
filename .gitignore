@@ -1,4 +1,8 @@
 jwt.client/bin
 jwt.client/obj
 
-jwt.shared/obj
+jwt.server/jwt.server/obj
+jwt.server/jwt.server/bin
+
+jwt.server/jwt.shared/obj
+jwt.server/jwt.shared/bin
