@@ -1,7 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/dotnet
 {
-	"name": "C# (.NET)",
+	"name": "jwt server",
 	"image": "mcr.microsoft.com/devcontainers/dotnet:0-6.0",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
@@ -21,6 +21,7 @@
 
 	"extensions": [
         "natqe.reload",
-        "ms-dotnettools.csharp"
+        "ms-dotnettools.csharp",
+		"zxh404.vscode-proto3"
     ]
 }

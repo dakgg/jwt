@@ -1,5 +1,6 @@
 jwt.client/bin
 jwt.client/obj
+.DS_Store
 
 jwt.server/jwt.server/obj
 jwt.server/jwt.server/bin

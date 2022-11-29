@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option csharp_namespace = "jwt.server";
+option csharp_namespace = "jwt.shared";
 
 package greet;
 
